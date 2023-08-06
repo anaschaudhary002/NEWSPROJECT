@@ -1,0 +1,8 @@
+.myClass{
+    background-color: red;
+    color: white;
+    border: 2px solid blue;
+}
+.active{
+    border-bottom: 1px solid blue !important;
+}
